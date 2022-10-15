@@ -1,0 +1,33 @@
+body {
+ background-color: black; 
+}
+.container{
+height: 500px;
+width: 740px;
+background-color: aqua;
+margin-left: 350px;
+margin-top: 70px;
+padding-top: 10px;
+padding-bottom: 20px;
+border-radius: 50px;
+background: #46dcf0;
+box-shadow:  20px 20px 60px #67b5c0,
+             -20px -20px 60px #8bf5ff;
+}
+a {
+  color: #00B7FF;
+}
+#table{
+  width: 25%;
+  text-align: center;
+  margin-left: 260px;
+}
+tr{
+  height: 50px;
+}
+h2{
+  margin-left: 260px;
+}
+td:hover{
+  background-color: aqua;
+}
